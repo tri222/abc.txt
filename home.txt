@@ -2,4 +2,8 @@ helloo my name is tritiya
 
 hellooo
 
+<<<<<<< HEAD
 yoeoeoeo
+=======
+vartikaaaa
+>>>>>>> c05fc6aad13d7fda284a4664327e5d81dd2675cb
